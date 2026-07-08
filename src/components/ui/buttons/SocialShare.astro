@@ -2,7 +2,6 @@
 import Icon from '@components/ui/icons/Icon.astro';
 // Destructure the properties from Astro.props
 const {
-  pageTitle,
   title = Astro.currentLocale === 'fr' ? 'Partager' : 'Share',
 } = Astro.props;
 
@@ -17,8 +16,6 @@ type SocialPlatform = {
   url: string;
   svg: string;
 };
-
-const encoded_url = encodeURIComponent(Astro.url.href);
 
 const socialPlatforms: SocialPlatform[] = [
   {

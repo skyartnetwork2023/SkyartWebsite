@@ -1,0 +1,37 @@
+{
+  "title": "Flexible Wi-Fi Solutions",
+  "subTitle": "Choose a deployment package that fits your coverage goals, support needs and growth plans.",
+  "badge": "Licensed ISP Partner",
+  "thirdOption": "Need a custom rollout?",
+  "btnText": "Request a Quote",
+
+  "starterKit": {
+    "name": "Street Wi-Fi Rollout",
+    "description": "Ideal for public access zones and local communities",
+    "price": "Custom",
+    "cents": "",
+    "billingFrequency": "Tailored quote",
+    "features": [
+      "Site survey & coverage design",
+      "Access point installation",
+      "Basic monitoring & support"
+    ],
+    "purchaseBtnTitle": "Discuss a Street Wi-Fi Project",
+    "purchaseLink": "/contact"
+  },
+
+  "professionalToolbox": {
+    "name": "Hotel & Campus Management",
+    "description": "Built for hospitality, education and multi-site operations",
+    "price": "Custom",
+    "cents": "",
+    "billingFrequency": "Tailored quote",
+    "features": [
+      "Guest captive portal setup",
+      "Centralized bandwidth control",
+      "Priority technical support"
+    ],
+    "purchaseBtnTitle": "Discuss a Managed Wi-Fi Solution",
+    "purchaseLink": "/contact"
+  }
+}

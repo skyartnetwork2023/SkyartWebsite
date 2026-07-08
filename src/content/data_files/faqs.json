@@ -1,0 +1,29 @@
+{
+  "subTitle": "Ask us anything about street Wi-Fi, hotel Wi-Fi management and campus connectivity.",
+  "faqs": [
+    {
+      "question": "Do you install street Wi-Fi systems?",
+      "answer": "Yes. We design and deploy street Wi-Fi solutions for public access zones, estates, markets and commercial corridors with scalable infrastructure and user management."
+    },
+    {
+      "question": "Can you manage hotel Wi-Fi for guests and staff?",
+      "answer": "Absolutely. We provide secure guest access, captive portal setup and centralized monitoring for hotels, lodges and hospitality properties."
+    },
+    {
+      "question": "Do you support campus Wi-Fi management?",
+      "answer": "Yes. Our team supports schools, campuses and institutional networks with access control, bandwidth management and responsive technical support."
+    },
+    {
+      "question": "Is Skyart Networks licensed to operate?",
+      "answer": "Yes. Skyart Networks Limited is a registered company with a district application licence for ISP operations."
+    },
+    {
+      "question": "What support do you provide after installation?",
+      "answer": "We offer remote monitoring, maintenance, troubleshooting and ongoing support to keep the network stable and secure."
+    },
+    {
+      "question": "Can you support multi-site deployments?",
+      "answer": "Yes. We can plan and manage multi-site Wi-Fi deployments for hospitality groups, educational institutions and public access networks."
+    }
+  ]
+}
